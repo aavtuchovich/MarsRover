@@ -8,6 +8,6 @@ package by.marsrover;
  * S = Y - 1
  * W = X - 1
  */
-public enum Directions {
+public enum Direction {
 	North, South, West, East
 }
